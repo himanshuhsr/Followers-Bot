@@ -5,11 +5,11 @@ import random
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 
-bot_username = 'himanshuhsr_2019'
-bot_password = 'Hema@98741'
+bot_username = ''  # Your instagram username
+bot_password = ''  # Your instagram Password
 
-profiles = ['hastarbtc']
-amount = 1650
+profiles = ['']  # Target profile username
+amount = 20  # No of followers to be scrapped
 
 # 'usernames' or 'links'
 result = 'usernames'
